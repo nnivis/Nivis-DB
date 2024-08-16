@@ -8,24 +8,31 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:\"Понимание Мира/Регионы\"  ",
+      "query": "path:\"Устройство Мира/Регионы\"  ",
       "color": {
         "a": 1,
-        "rgb": 8952511
+        "rgb": 6069206
       }
     },
     {
-      "query": "path:\"Понимание Мира/EMG\"  ",
+      "query": "path:\"Персонажи/Основные персонажи\"  ",
       "color": {
         "a": 1,
-        "rgb": 9657558
+        "rgb": 7507402
       }
     },
     {
-      "query": "path:Персонажи  ",
+      "query": "path:\"Устройство Мира/EMG\"  ",
       "color": {
         "a": 1,
-        "rgb": 12827759
+        "rgb": 9793730
+      }
+    },
+    {
+      "query": "path:Сюжет/Главы  ",
+      "color": {
+        "a": 1,
+        "rgb": 13348706
       }
     }
   ],
@@ -35,10 +42,10 @@
   "nodeSizeMultiplier": 1.478125,
   "lineSizeMultiplier": 1.60572916666667,
   "collapse-forces": true,
-  "centerStrength": 0.291666666666667,
-  "repelStrength": 15.4166666666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224602,
+  "centerStrength": 0.234375,
+  "repelStrength": 10.625,
+  "linkStrength": 0.911458333333333,
+  "linkDistance": 201,
+  "scale": 0.2588386562181721,
   "close": false
 }
