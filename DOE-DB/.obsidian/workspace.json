@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "325ffd20a6598dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a540c545d2390c26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7a13a7a4b54f157",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Понимание Мира/EMG/Регнаторы (Концепции, Принципы).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1b742ba0bc06b1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a5fabed1927690",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72fc7b6cdc90fe62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0d8240987037ef41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#WanhoopWortel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "30020b3706774499",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4088a9c51a713f2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0877e2eee4df4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ff0aa5df8d98a41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Понимание Мира/EMG/Регнаторы (Концепции, Принципы).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "294785c25dd07eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Понимание Мира/EMG/Регнаторы (Концепции, Принципы).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc83748e593d7d36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "669cf1e4e96cbb1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Понимание Мира/EMG/Регнаторы (Концепции, Принципы).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a7a13a7a4b54f157",
+  "lastOpenFiles": [
+    "Персонажи/Wanhoop Wortel.md",
+    "Понимание Мира/EMG/EMPTY MIND GROUP.md",
+    "Понимание Мира/Регионы/IGNIS (мир снегов).md",
+    "Персонажи/Меморин.md",
+    "Персонажи/Вита.md",
+    "Персонажи/Хелвден.md",
+    "Понимание Мира/Регионы/SANRUIS (мир огней).md",
+    "Персонажи.md",
+    "Понимание Мира/Регионы/LOUCO (мир хаоса).md",
+    "Понимание Мира/EMG/ENERGY.md",
+    "Понимание Мира/EMG/Регнаторы (Концепции, Принципы).md",
+    "Понимание Мира/EMG/RANKS.md",
+    "Понимание Мира/EMG/TECHNOLOGY.md",
+    "Устройство мира.md",
+    "Персонажи",
+    "DEVOID OF EVERGLOW.md",
+    "Сюжет.md",
+    "Сюжет/Первая Миссия.md",
+    "Сюжет/Пролог.md",
+    "Сюжет",
+    "().md",
+    "Понимание Мира/EMG",
+    "Понимание Мира/Регионы/The Outside - Другая сторона.md",
+    "Понимание Мира/Регионы/Рейв - Мироздание.md",
+    "Понимание Мира/Регионы/LOGUS (мир грёз).md",
+    "Понимание Мира/Регионы",
+    "Понимание Мира",
+    "Без названия.canvas",
+    "2024-08-15.md",
+    "Добро пожаловать.md",
+    "создайте ссылку.md",
+    "привет.md"
+  ]
+}

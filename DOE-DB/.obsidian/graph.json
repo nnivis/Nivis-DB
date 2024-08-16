@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Понимание Мира/Регионы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8952511
+      }
+    },
+    {
+      "query": "path:\"Понимание Мира/EMG\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9657558
+      }
+    },
+    {
+      "query": "path:Персонажи  ",
+      "color": {
+        "a": 1,
+        "rgb": 12827759
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 1.60572916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.291666666666667,
+  "repelStrength": 15.4166666666667,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224602,
+  "close": false
+}
