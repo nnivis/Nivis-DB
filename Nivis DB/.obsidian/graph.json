@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"Устройство Мира/Регионы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6069206
+      }
+    },
+    {
+      "query": "path:\"Персонажи/Основные персонажи\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2698808
+      }
+    },
+    {
+      "query": "path:\"Устройство Мира/EMG\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9793730
+      }
+    },
+    {
+      "query": "path:Сюжет/Главы  ",
+      "color": {
+        "a": 1,
+        "rgb": 13348706
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.478125,
+  "lineSizeMultiplier": 1.60572916666667,
+  "collapse-forces": true,
+  "centerStrength": 0.234375,
+  "repelStrength": 10.625,
+  "linkStrength": 0.911458333333333,
+  "linkDistance": 201,
+  "scale": 0.28273906729686193,
+  "close": false
+}
