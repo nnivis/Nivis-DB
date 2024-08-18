@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a540c545d2390c26",
+        "id": "616fafac47cf7bca",
         "type": "tabs",
         "children": [
           {
-            "id": "a7a13a7a4b54f157",
+            "id": "0c93786cf5082c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DOE DB/GDD.md",
+                "file": "DOE DB/GDD/GDD.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9a7e4c9381bef26b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DOE DB/GDD/GDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DOE DB/GDD/GDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DOE DB/GDD/GDD.md"
+              }
             }
           }
         ]
@@ -151,10 +146,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9a7e4c9381bef26b",
+  "active": "0c93786cf5082c11",
   "lastOpenFiles": [
+    "2024-08-18.md",
+    "DOE DB/GDD/GDD.md",
+    "DOE DB/Устройство Мира/EMG/Энергия.md",
+    "DOE DB/GDD/Стиль Игры.canvas",
+    "DOE DB/GDD/GDD - Image/Стена Переходы.jpg",
+    "DOE DB/GDD/GDD - Image/99.jpg",
     "DOE DB/Devoid Of Everglow.md",
-    "DOE DB/GDD.md",
+    "DOE DB/GDD",
+    "DOE DB/GDD/GDD - Image/34.jpg",
+    "DOE DB/GDD/GDD - Image/Преграда или...jpg",
+    "DOE DB/GDD/GDD - Image/Стена.jpg",
+    "DOE DB/GDD/GDD - Image/LK-4.jpg",
+    "DOE DB/GDD/GDD - Image/photo_2023-08-01_18-54-36.jpg",
+    "DOE DB/GDD/GDD - Image/photo_2023-08-01_18-54-34.jpg",
+    "DOE DB/GDD/GDD - Image/photo_2023-08-01_18-54-33.jpg",
+    "DOE DB/GDD/GDD - Image/LG-2.png",
+    "DOE DB/GDD/GDD - Image",
     "DOE DB",
     "DOE DB/Устройство Мира/EMG/Регнаторы (Концепции, Принципы).md",
     "DOE DB/Устройство Мира/EMG/Технологии.md",
@@ -174,7 +184,6 @@
     "DOE DB/Устройство Мира/Регионы/Лоуко.md",
     "DOE DB/Устройство Мира/Регионы/Рейв.md",
     "DOE DB/Устройство Мира/EMG/EMG.md",
-    "DOE DB/Устройство Мира/EMG/Энергия.md",
     "DOE DB/Устройство Мира/EMG/Ранги.md",
     "DOE DB/Сюжет/Главы",
     "Устройство Мира/EMG/Энергия",
@@ -185,8 +194,6 @@
     "().md",
     "DOE DB/Устройство Мира/EMG",
     "DOE DB/Устройство Мира/Регионы",
-    "DOE DB/Устройство Мира",
-    "Без названия.canvas",
     "2024-08-15.md"
   ]
 }

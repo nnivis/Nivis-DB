@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Устройство Мира/Регионы\"  ",
@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 13348706
       }
+    },
+    {
+      "query": "path:\"DOE DB\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048372
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 10.625,
   "linkStrength": 0.911458333333333,
   "linkDistance": 201,
-  "scale": 0.28273906729686193,
+  "scale": 0.5239624084449045,
   "close": false
 }
