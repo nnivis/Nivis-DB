@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Устройство Мира/Регионы\"  ",
@@ -53,6 +53,6 @@
   "repelStrength": 10.625,
   "linkStrength": 0.911458333333333,
   "linkDistance": 201,
-  "scale": 0.5239624084449045,
+  "scale": 0.3848956256731554,
   "close": false
 }
